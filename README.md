@@ -1,2 +1,1 @@
-# Pokemons
-asd
+# pokemons_app
